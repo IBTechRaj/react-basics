@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 # react-basics
 
-A tutorial on React Basics
+A tutorial on React Basics - watched and run on 16 Feb 2021
